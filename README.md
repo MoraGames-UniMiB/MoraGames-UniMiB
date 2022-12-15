@@ -1,4 +1,12 @@
-### Hi there 👋
+# Holaa 👋 I'm MoraGames!
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MoraGames)
+[![GMail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&source=mailto&to=a.morandi18@campus.unimib.it)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white
+)](https://t.me/MoraGames)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
+)]()
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white
+)](https://discordapp.com/users/MoraGames#9086)
 
 <!--
 **MoraGames-UniMiB/MoraGames-UniMiB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
